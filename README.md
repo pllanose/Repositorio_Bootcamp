@@ -8,4 +8,4 @@ Este es el Potafolio con los trabajos realizados durante el Bootcamp de Ingenier
 
 [Portafolio 6](https://github.com/pllanose/Repositorio_Bootcamp/tree/main/Portafolio_6)
 
-[Portafolio_9](https://github.com/pllanose/Repositorio_Bootcamp/tree/main/Portafolio_9)
+[Portafolio 9](https://github.com/pllanose/Repositorio_Bootcamp/tree/main/Portafolio_9)
